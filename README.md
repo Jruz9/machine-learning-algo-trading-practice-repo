@@ -1,11 +1,13 @@
 # Machine Learning Algorithmic Trading Practice
-<!-- TODO: COmplete the readme in the new format used in other projects -->
 ## About
 This is a repository that shows the coding practice from the example of the book algorithmic trading with machine learning .
 
 It will be divided into chapters with clear titles of what is being done and in the future the reader will include things needed from other chapters since there are lots of reused items for other places in the chapter implementation.
 
 Additionally a chapter explainer will be included just for myself to remember if i relook things at.
+
+
+Code respositroy is here: [Machine Learning For Algorithm Trading](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition)
 
 
 ## Inspiration
@@ -24,4 +26,3 @@ My goal is to learn more about algorithmic programming and use the teaching in a
     - pip freeze > requirements.txt
   - Installing packages:
     - pip install -r requirements.txt
-
